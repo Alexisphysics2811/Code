@@ -1,3 +1,3 @@
 # Code Playground
 
-Just some tests and uni hw, keep scrolling...
+Just some tests and uni hw, mainly tests.
