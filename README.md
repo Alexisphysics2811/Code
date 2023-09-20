@@ -1,3 +1,3 @@
-# Code Playground
+# FC Coding
 
-Just some tests and uni hw, mainly tests.
+Just some tests and uni hw, lots of both.
