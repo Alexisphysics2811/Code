@@ -1,3 +1,11 @@
+/*
+Calculator
+Author: Rábago García Carlos Alexis
+Creation Date: 19/09/2023
+Last Modified: 19/09/2023
+Version: 1.0
+*/
+
 #include <stdio.h>
 
 int main(){
