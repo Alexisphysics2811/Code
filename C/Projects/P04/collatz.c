@@ -2,14 +2,14 @@
 Collatz Conjecture (Looped)
 Author: Rábago García Carlos Alexis
 Creation Date: 19/09/2023
-Last Modified: 19/09/2023
-Version: 1.0
+Last Modified: 21/09/2023
+Version: 1.1
 */
 
 #include <stdio.h>
 
 int main(){
-    int n;
+    int n, count=0;
     printf("Initial integer: \n");
     scanf("%d", &n);
     printf("Collatz: \n");
@@ -27,7 +27,9 @@ int main(){
             printf("%d\n", n);
             n = 3*n+1;
         }
+        count++;
     }
     
+    printf("Number of iterations: %d\n", count);
     return 0;
 }

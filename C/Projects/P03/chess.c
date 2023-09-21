@@ -1,3 +1,11 @@
+/*
+Chessboard Unicode
+Author: Rábago García Carlos Alexis
+Creation Date: 21/09/2023
+Last Modified: 21/09/2023
+Version: 1.0
+*/
+
 #include <stdio.h>
 
 int main(){
