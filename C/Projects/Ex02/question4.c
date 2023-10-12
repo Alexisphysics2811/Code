@@ -1,4 +1,6 @@
 #include <stdio.h> 
+#include <stdlib.h>
+#include <time.h>
 
 void a() { 
     int ans=0;
@@ -25,8 +27,19 @@ void b() {
     }
 }
 
+void c() {
+    srand(time(NULL));
+    short int i, a;
+    for (i = 0; i < 101; i++)
+    {
+        a = a + (rand() % 20);
+    }
+    printf("%d\n", a/i);
+}
+
 int main(){
     a();
     b();
+    c();
     return 0;
 }
