@@ -1,3 +1,11 @@
+/*
+Question 4: Second exam
+Author: Rábago García Carlos Alexis
+Creation Date: 12/10/2023
+Last Modified: 12/10/2023
+Version: 1.0
+*/
+
 #include <stdio.h> 
 #include <stdlib.h>
 #include <time.h>
