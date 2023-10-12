@@ -5,7 +5,7 @@
 void main() {
     srand(time(NULL));
     short int i, a;
-    for (i = 0; i < 101; i++)
+    for (i = 0; i < 100; i++)
     {
         a = a + (rand() % 20);
     }
