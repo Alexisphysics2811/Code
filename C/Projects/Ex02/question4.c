@@ -12,7 +12,7 @@ Version: 1.0
 
 void a() { 
     int ans=0;
-	for (int i = 0; i < 101; i++) {  
+	for (int i = 1; i < 101; i++) {  
 		ans = ans + i; 
 	}
     printf("%d\n", ans);
@@ -38,7 +38,7 @@ void b() {
 void c() {
     srand(time(NULL));
     short int i, a;
-    for (i = 0; i < 101; i++)
+    for (i = 0; i < 100; i++)
     {
         a = a + (rand() % 20);
     }
