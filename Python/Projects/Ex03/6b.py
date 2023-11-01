@@ -1,3 +1,11 @@
+"""
+Integrals
+Author: Rábago García Carlos Alexis
+Creation Date: 31/10/2023
+Last Modified: 31/10/2023
+Version: 1.0
+"""
+
 import numpy as np
 
 valA = 44
